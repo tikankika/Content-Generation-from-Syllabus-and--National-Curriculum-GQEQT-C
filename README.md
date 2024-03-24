@@ -1,4 +1,4 @@
-# Textbook-creator---to-be-used-in-AI-Beta-Prompt-CustomGPT
+# Textbook creator, to be used in AI
 
 The "textbook GPT" concept is designed around the use of customized GPTs to craft concise, yet detailed teaching materials tailored specifically to a course's curriculum. This innovative approach is built upon a series of "micro-prompts" (commands/functions) that guide the GPT in generating high-quality, relevant content with minimal text, thus maximizing the precision and applicability of the course materials. These micro-prompts are crucial for creating aligned assessments, quizzes, and various educational tools, ensuring they closely match the course's learning objectives. The focus on delivering specifically tailored curriculum content through these micro-prompts aims to optimize educational outcomes by enhancing the clarity and relevance of the teaching materials.
 
