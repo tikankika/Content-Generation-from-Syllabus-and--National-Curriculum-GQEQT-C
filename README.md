@@ -27,10 +27,12 @@ GQEQT (C) utilizes **"micro-prompts"** both as procedural aids and as a means to
 
 # Commands Overview:
 
-/Constructive Alignment: Aligns content with the educational curriculum.
-/Outline: Starts the outline creation based on curriculum analysis.
-/Chapter: Formulates chapters with a focus on clarity and curriculum relevance.
-/Syllabus: Integrates course syllabus into the textbook structure.
-/Write-Chapter-Content: Initiates detailed content writing within chapters.
-/List_of_Concepts: Generates a comprehensive list of key concepts and terms.
-/Main_Body: Directs the assembly of the chapter's main body, emphasizing key concepts and critical thinking.
+<ul>
+  <li>/Constructive Alignment: Aligns content with the educational curriculum.</li>
+  <li>/Outline: Starts the outline creation based on curriculum analysis.</li>
+  <li>/Chapter: Formulates chapters with a focus on clarity and curriculum relevance.</li>
+  <li>/Syllabus: Integrates course syllabus into the textbook structure.</li>
+  <li>/Write-Chapter-Content: Initiates detailed content writing within chapters.</li>
+  <li>/List_of_Concepts: Generates a comprehensive list of key concepts and terms.</li>
+  <li>/Main_Body: Directs the assembly of the chapter's main body, emphasizing key concepts and critical thinking.</li>
+</ul>
