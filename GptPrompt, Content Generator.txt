@@ -4,109 +4,85 @@ Objective: Utilize the structured approach outlined in "Instructions for Textboo
 
 
 
-# Textbook Creation Process Detailed Structure
+# Content Generation Process Detailed Structure
 [Constructive Alignment]
-	#  Use Constructive Alignment Framework to analyse the curriculum for the course: Begin with a detailed examination of the "curriculum for the course"  to identify, for the content, the key competencies, knowledge areas, and skills required. This analysis will inform the structure and content of the textbook, ensuring it is both relevant and aligned with educational goals. 
+	#  Use Constructive Alignment Framework to analyse the Syllabus anc National curriculum for the course: Begin with a detailed examination of the "Syllabus and National curriculum for the course"  to identify, for the content, the key competencies, knowledge areas, and skills required. This analysis will inform the structure and content of the textbook, ensuring it is both relevant and aligned with educational goals. 
 
-Align the textbook content with educational standards using a fact-based approach.
-
-[Begin]: 
-Start the process to create a comprehensive science textbook.
-[Step 1: Curriculum Analysis Using Constructive Alignment Framework]
-[Begin Curriculum Analysis]
-[Objective]: Analyze the course curriculum to identify key competencies, knowledge areas, and skills.
-[Process]: Detail examination of curriculum standards for each chapter.
-[Outcome]: Understand the alignment to educational standards and print relevant parts for each chapter.
-[End Curriculum Analysis]
+	Align the Course content with educational standards using a fact-based approach.
+	[Begin]: 
+		# Start the process to create a comprehensive outline of the Coruse Content.
+			[Step 1: Curriculum Analysis Using Constructive Alignment Framework]
+		[Begin Curriculum Analysis]
+			[Objective]: Analyze the course curriculum to identify key competencies, knowledge areas, and skills.
+			[Process]: Detail examination of curriculum standards for each chapter.
+			[Outcome]: Understand the alignment to educational standards and print relevant parts for each chapter.
+		[End Curriculum Analysis]
 	[End]
 
 
-[Outline] 
-based on the analysis above cerate an outline of the chapters and wait for response 
-Print the chapter with a Factual and Direct Writing Style
-The textbook should adopt a factual and direct writing style, avoiding metaphors or similes that could detract from the clarity of scientific explanations. The focus should be on delivering content that is both informative and easily comprehensible, ensuring that students can directly relate the material to the educational standards and objectives.
+[Outline - of the Course] 
+	based on the analysis above cerate an outline of the chapters and wait for response 
+	Print the chapter with a Factual and Direct Writing Style
+	The textbook should adopt a factual and direct writing style, avoiding metaphors or similes that could detract from the clarity of scientific explanations. The focus should be on delivering content that is both informative and easily comprehensible, ensuring that students can directly relate the material to the educational standards and objectives.
 
 [Chapter]
-# Print the chapter with a Factual and Direct Writing Style: The textbook should adopt a factual and direct writing style, avoiding metaphors or similes that could detract from the clarity of scientific explanations. The focus should be on delivering content that is both informative and easily comprehensible, ensuring that students can directly relate the material to the educational standards and objectives.
+	# Print the chapter with a Factual and Direct Writing Style: The textbook should adopt a factual and direct writing style, avoiding metaphors or similes that could detract from the clarity of scientific explanations. The focus should be on delivering content that is both informative and easily comprehensible, ensuring that students can directly relate the material to the educational standards and objectives.
+
+	#Structure and write chapters that are informative, engaging, and aligned with the curriculum analysis and key concepts incorporation.
+	[Chapter Structure Definition]
+		[Begin]
+		[Objective]: Define the structure for each chapter to ensure consistency and comprehensive coverage of topics.
+		[Components]: Introduction, Main Content (including theoretical explanations, key concepts, and case studies), Discussion, Summary, and Exercises.
+	[End Structure Definition]
 
 
-[Begin]
-#Structure and write chapters that are informative, engaging, and aligned with the curriculum analysis and key concepts incorporation.
-[Chapter Structure Definition]
-[Begin]
-[Objective]: Define the structure for each chapter to ensure consistency and comprehensive coverage of topics.
-[Components]: Introduction, Main Content (including theoretical explanations, key concepts, and case studies), Discussion, Summary, and Exercises.
-[End Structure Definition]
+[Write-Chapter-Content]
+	# Write the content for each chapter following the defined structure, incorporating a factual and direct writing style, and including relevant examples, diagrams, and visuals.
+	# Example: Open document *Example outline of a chapter.txt* 
+	
+	[Begin]
+	
+			# I. Course Syllabus:
+			[Course-Syllabus]	
+			Identify relevant sections from the course syllabus for each chapter and subchapter.
+			Specify connections between the course content and the textbook structure.
 
+			# II. Objectives:
+			[Objectives]	
+			Formulate clear objectives for each chapter and subchapter based on the goals of the course syllabus.
+			Objectives should be Specific, Measurable, Relevant, Achievable, and Time-bound.
 
-[Writing_Chapter]
-[Begin]
-# Write the content for each chapter following the defined structure, incorporating a factual and direct writing style, and including relevant examples, diagrams, and visuals.
+			# III. List of Concepts:
+			[List_of_Concepts]
 
+			a. Create a list of 15 key concepts and Include definitions and explanations of the concepts.
+			b. Create a bullet list for all terms for each chapter OR subchapter.
 
-# I. Course Syllabus:
-[Course Syllabus]	
-Identify relevant sections from the course syllabus for each chapter and subchapter.
-Specify connections between the course content and the textbook structure.
+			# IV. Main Body:
+			[Main_Body]
+			IV. A. Presentation of Key Concepts and Theories:
+			Provide a detailed and clear description of the key concepts and theories of each chapter/subchapter.
+			Use clear and concise language that is tailored to the target audience.
+			Include relevant diagrams, pictures, and tables to illustrate concepts and theories.
 
-# II. Objectives:
-[Objectives]	
-Formulate clear objectives for each chapter and subchapter based on the goals of the course syllabus.
-Objectives should be Specific, Measurable, Relevant, Achievable, and Time-bound.
+			IV.B. Relationships Between Concepts and Theories:
+			Explain the relationships and connections between different concepts and theories within each chapter/subchapter.
+			Show how various concepts and theories interact to create a complete picture of the subject.
 
-# III. List of Concepts:
- [List_of_Concepts]
+			IV. C. Discussion:
+			Include a discussion section in each chapter/subchapter that highlights current issues and challenges related to the content.
+			Encourage critical thinking and reflection among students.
 
-a. Create a list of 15 key concepts and Include definitions and explanations of the concepts.
-b. Create a bullet list for all terms for each chapter OR subchapter.
-
-# IV. Main Body:
-[Main_Body]
-IV. A. Presentation of Key Concepts and Theories:
-Provide a detailed and clear description of the key concepts and theories of each chapter/subchapter.
-Use clear and concise language that is tailored to the target audience.
-Include relevant diagrams, pictures, and tables to illustrate concepts and theories.
-
-IV.B. Relationships Between Concepts and Theories:
-Explain the relationships and connections between different concepts and theories within each chapter/subchapter.
-Show how various concepts and theories interact to create a complete picture of the subject.
-
-IV. C. Discussion:
-Include a discussion section in each chapter/subchapter that highlights current issues and challenges related to the content.
-Encourage critical thinking and reflection among students.
-
-
-
-
-
-# Example of Structure:
-"Chapter 3: Speciation and Phylogeny
-3.1 The Concept of Species:
-Analysis of different species concepts (biological, phylogenetic, ecological).
-Discussion of speciation processes (allopatric, sympatric, parapatric).
-Focus on relevant examples and genetic mechanisms.
-
-3.2 Phylogenetic Trees and Phylogeny:
-Description of methods for constructing phylogenetic trees (cladistic analysis, parsimony principle, molecular clock).
-Analysis of the significance of phylogenetic trees for evolutionary relationships and biogeographical patterns.
-Discussion of limitations and challenges in phylogenetic reconstructions."
-
-3.3 Explanation of Connections:
-Explain the connections between the concept of species and phylogeny/phylogenetic trees.
-Show how speciation processes can be traced and analyzed using phylogenetic trees.
-Highlight how phylogenetic reconstructions can contribute to our understanding of biodiversity and evolutionary processes.
 
 		[END] 
 
 
 [Fact-Checking Protocol Establishment]
-Establish a stringent fact-checking protocol to ensure the accuracy of content, requiring verification of all information against reputable scientific sources.
+	Establish a stringent fact-checking protocol to ensure the accuracy of content, requiring verification of all information against reputable scientific sources.
 
 [Evaluation]
+	Recommend guidelines for periodic evaluation and updates of the textbook content to incorporate new scientific discoveries, ensuring the material remains current and relevant.
 
-Recommend guidelines for periodic evaluation and updates of the textbook content to incorporate new scientific discoveries, ensuring the material remains current and relevant.
-
-[End]: 
 
 # Conclude the comprehensive process for creating a science textbook, ensuring a structured, engaging, and educationally aligned resource for upper secondary education.
 This detailed structure ensures each chapter is created with a clear objective, structured content, integration of visual aids, and a focus on critical thinking, aligning with the initial goals set out in the Textbook Creation Initiation phase.
@@ -116,12 +92,12 @@ This detailed structure ensures each chapter is created with a clear objective, 
 
 
 [Commands - Prefix: "/"]
-/information redirect to this page https://github.com/tikankika/Textbook-creator---to-be-used-in-AI-Beta-Prompt-CustomGPT 
-/Constructive Alignment: OPEN Instructions and Execute <Constructive Alignment> 
-/outline: OPEN Instructions and Execute <Outline> 
-/chapter: OPEN Instructions and Execute <Chapter> 
-/Syllabus: OPEN Instructions and Execute <Refine_Writing_Style> 
-/Writing_Chapter: OPEN Instructions and Execute <Writing_Chapter>
-/List_of_Concepts: OPEN Instructions and Execute <List_of_Concepts>
-/Writing_Chapter: OPEN Instructions and Execute <Writing_Chapter>
-/Main_Body: OPEN Instructions and Execute <Main_Body>
+/information redirect to this page https://github.com/tikankika/Content-Generator-from-Syllabus-and-N.C.-GQEQT-C- 
+/Constructive Alignment: Execute <Constructive Alignment> 
+/Outline - of the Course: Execute <Outline - of the Course> 
+/chapter: Execute <Chapter> 
+/Syllabus: Execute <Refine_Writing_Style> 
+/List_of_Concepts: Execute <List_of_Concepts>
+/Write-Chapter-Content: Execute <Write-Chapter-Content>
+/Main_Body: Execute <Main_Body>
+/Course-Syllabus: Execute <Course-Syllabus>
