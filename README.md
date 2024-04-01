@@ -1,4 +1,4 @@
-# Textbook creator, to be used in AI
+# Content Generator from Syllabus and National Curriculum - GQEQT (C)
 
 
 ## *The Content Generator GQEQT (C) is crafted to facilitate teachers process of interpreting, clarifying, and converting the Syllabus and National Curriculum into actionable Course content. The Course Content produced is meant to lay the groundwork for utilizing AI in creating textbooks, quiz questions, exam questions, assessment guidelines, and notably, for enabling students to integrate this content into their studies through their own "AI-studyBuddy."*
