@@ -1,5 +1,6 @@
-# Content Generation from Syllabus and National Curriculum - GQEQT (C)
+# Content Generation from Syllabus and National Curriculum - GQEQT C
 
+A CustomGPT in OpenAI:s GPT4 - link to the GPT: [Content Generation from Syllabus and National Curriculum - GQEQT C](https://chat.openai.com/g/g-3RBJxzYB1-content-generation-from-syllabus-and-n-c-gqeqt-c) 
 
 ## *The Content Generation GQEQT (C) is crafted to facilitate teachers process of interpreting, clarifying, and converting the Syllabus and National Curriculum into actionable Course content. The Course Content generated is meant to lay the groundwork for utilizing AI in creating textbooks, quiz questions, exam questions, assessment guidelines, and notably, for enabling students to integrate this content into their studies through their own "AI-studyBuddy."*
 
